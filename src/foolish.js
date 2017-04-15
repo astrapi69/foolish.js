@@ -48,5 +48,9 @@ var Foolish = function() {
 		var previousIndex = indexOfElement - 1;
 		return previousIndex;
 	}
+        
+        function _removeLast(array){
+            
+        }
 
 };
